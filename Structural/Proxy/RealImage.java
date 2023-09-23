@@ -1,4 +1,4 @@
-package Structural;
+package Structural.Proxy;
 
 public class RealImage implements Image {
     private String fileName;

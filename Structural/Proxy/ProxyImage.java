@@ -1,4 +1,4 @@
-package Structural;
+package Structural.Proxy;
 
 public class ProxyImage implements Image{
     private RealImage realImage;
